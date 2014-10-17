@@ -1,4 +1,4 @@
 LeetCode
 ========
 This repositroy includs all the solutions to LeetCode and basic data structure implementation.
-For the index of the solution, please check the seperate xlxs file.
+For quick checking one specific solution, please refer to the seperate xlsx file enclosed.
